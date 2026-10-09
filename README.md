@@ -96,9 +96,12 @@ During post-deployment validation, Device Manager showed several unknown ACPI de
 
 [View the PowerShell Endpoint Support Automation Lab](./powershell/README.md)
 
+## Asset Inventory and Device Lifecycle
+
+[View the Asset Inventory and Device Lifecycle Lab](./asset-management/README.md)
+
 ## Next Labs
 
-- Asset inventory and device lifecycle
 - Software and hardware troubleshooting
 - Knowledge base articles
 - Technician guides and support documentation
