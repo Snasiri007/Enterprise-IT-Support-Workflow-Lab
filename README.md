@@ -90,9 +90,10 @@ For this lab, I treated a fresh Windows VM like a new endpoint that needed to be
 During post-deployment validation, Device Manager showed several unknown ACPI devices in the UTM/QEMU virtual environment. I checked the hardware IDs, verified that networking, storage, and the rest of the VM were working normally, and treated the remaining entries as virtualization-specific instead of continuing to install unrelated drivers.
 
 
+Link ticket troubleshooting case studies
+
 [View the ticket troubleshooting case studies](./ticket-case-studies/README.md)
 
-Link ticket troubleshooting case studies
 
 ## Next Labs
 
