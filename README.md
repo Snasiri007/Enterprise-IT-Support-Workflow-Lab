@@ -100,10 +100,13 @@ During post-deployment validation, Device Manager showed several unknown ACPI de
 
 [View the Asset Inventory and Device Lifecycle Lab](./asset-management/README.md)
 
+## Knowledge Base and Support Documentation
+
+[View the Knowledge Base](./knowledge-base/README.md)
+
 ## Next Labs
 
 - Software and hardware troubleshooting
-- Knowledge base articles
 - Technician guides and support documentation
 
 ## Why I Built This
