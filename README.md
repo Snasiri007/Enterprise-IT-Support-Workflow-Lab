@@ -82,7 +82,6 @@ For this lab, I treated a fresh Windows VM like a new endpoint that needed to be
 
 ### Tools Used
 
-
 `PowerShell` · `winget` · `Device Manager` · `Windows Update` · `Get-NetIPConfiguration` · `Test-Connection` · `Resolve-DnsName`
 
 ### Notes
@@ -96,7 +95,6 @@ During post-deployment validation, Device Manager showed several unknown ACPI de
 ## PowerShell Support and Automation
 
 [View the PowerShell Endpoint Support Automation Lab](./powershell/README.md)
-
 
 ## Next Labs
 
