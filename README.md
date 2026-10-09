@@ -93,10 +93,13 @@ During post-deployment validation, Device Manager showed several unknown ACPI de
 
 [View the ticket troubleshooting case studies](./ticket-case-studies/README.md)
 
+## PowerShell Support and Automation
+
+[View the PowerShell Endpoint Support Automation Lab](./powershell/README.md)
+
 
 ## Next Labs
 
-- PowerShell support and automation
 - Asset inventory and device lifecycle
 - Software and hardware troubleshooting
 - Knowledge base articles
