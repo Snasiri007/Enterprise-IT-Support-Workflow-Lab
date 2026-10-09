@@ -1,0 +1,5 @@
+﻿AssetTag,Hostname,AssignedUser,OS,Status,LastChecked
+LAB-001,DEPLOY-01,LabUser,Windows 11 Pro,In Service,2026-10-08
+LAB-002,DEPLOY-02,LabUser3,Windows 11 Pro,In Service,2026-10-08
+LAB-003,DEPLOY-03,LabUser2,Windows 11 Pro,In Service,2026-10-08
+LAB-004,DEPLOY-04,Unassigned,Windows 10 Pro,Retired,2026-10-08
