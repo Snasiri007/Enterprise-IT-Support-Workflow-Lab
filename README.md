@@ -107,7 +107,7 @@ During post-deployment validation, Device Manager showed several unknown ACPI de
 ## Next Labs
 
 - Software and hardware troubleshooting
-- Technician guides and support documentation
+
 
 ## Why I Built This
 
