@@ -28,7 +28,6 @@ I built this lab to recreate the kind of Windows deployment and support work Iâ€
 
 For this lab, I treated a fresh Windows VM like a new endpoint that needed to be prepared for a user.
 
-
 ### What I did
 
 - Captured a baseline of the new device with PowerShell
