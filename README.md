@@ -96,7 +96,6 @@ During post-deployment validation, Device Manager showed several unknown ACPI de
 
 ## Next Labs
 
-- Ticket troubleshooting case studies
 - PowerShell support and automation
 - Asset inventory and device lifecycle
 - Software and hardware troubleshooting
