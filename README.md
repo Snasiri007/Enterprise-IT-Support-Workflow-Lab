@@ -28,18 +28,7 @@ I built this lab to recreate the kind of Windows deployment and support work I鈥
 
 For this lab, I treated a fresh Windows VM like a new endpoint that needed to be prepared for a user.
 
-### What I did
 
-- Captured a baseline of the new device with PowerShell
-- Renamed the endpoint to `DEPLOY-01`
-- Created separate `LabAdmin` and `LabUser` accounts
-- Removed `LabUser` from the local Administrators group
-- Installed Windows updates
-- Validated IP configuration, gateway, connectivity, and DNS
-- Installed standard software with `winget`
-- Verified 7-Zip, Google Chrome, and Notepad++
-- Checked Device Manager and investigated unknown virtual ACPI devices
-- Completed a final deployment-readiness check
 ### What I did
 
 - Captured a baseline of the new device with PowerShell
@@ -92,7 +81,7 @@ For this lab, I treated a fresh Windows VM like a new endpoint that needed to be
 *Completed a final check of the device name, local users, administrator membership, networking, installed software, and Windows build.*
 
 ### Tools Used
-### Tools Used
+
 
 `PowerShell` 路 `winget` 路 `Device Manager` 路 `Windows Update` 路 `Get-NetIPConfiguration` 路 `Test-Connection` 路 `Resolve-DnsName`
 
